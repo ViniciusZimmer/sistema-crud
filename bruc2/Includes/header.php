@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+    <title>Sistema CRUD</title>
+  </head>
+  
+  <body class="bg-dark text-light">
+    
+    <div class="container">
+    <center>
+      <div class="jumbotron bg-primary">
+        
+        <h1>Sistema CRUD</h1>
+        </div>
+      </center>
